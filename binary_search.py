@@ -1,7 +1,7 @@
 """
-Description: Defining a function for binary search 
-Function arguments: a sorted list of integers and a number to be searched from the list
-Function return value: index of the searched number
+Description                    :  Defining a function for binary search 
+Function arguments/ input      :  A sorted list of integers and a number to be searched from the list
+Function return value/ output  :  Index of the searched number
 """
 import math
 def binary_search(num_list, num_to_be_searched):
